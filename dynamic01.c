@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+main()
 {
     int a[50][50],n;
     printf("enter n value:\n");
