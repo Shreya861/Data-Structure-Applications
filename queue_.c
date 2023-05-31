@@ -20,8 +20,6 @@ main()
        fprintf(fp1,"%d  ",a[i]);
     }
     fclose(fp1);
-   f=-1;
-   r=-1;
    m=0;
    int ch;
    while(1)
